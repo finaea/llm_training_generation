@@ -10,9 +10,9 @@ Main program
 
 Contains classes that made up the architecture for training LLM and generating text
 
-`sample\biology.pth`
+`sample\biology.pth (not in repository)` 
 
-Sample model trained from `biology.txt` with default configurations
+Sample model trained from `biology.txt` with default configurations. Can be obtained from https://github.com/finaea/llm_training_generation/releases/tag/sample
 
 `sample\biology.yaml`
 
