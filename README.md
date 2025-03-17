@@ -10,6 +10,10 @@ Main program
 
 Contains classes that made up the architecture for training LLM and generating text
 
+`gpt_app_ui.py`
+
+Alternative program for text generation with UI. Model and Config names must be "model.pth" and "model.yaml" respectively to work. Execute by running `chainlit run gpt_app_ui.py`.
+
 `sample\biology.pth (not in repository)` 
 
 Sample model trained from `biology.txt` with default configurations. Can be obtained from https://github.com/finaea/llm_training_generation/releases/tag/sample
